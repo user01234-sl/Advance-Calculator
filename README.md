@@ -1,4 +1,4 @@
-# Installing 
+# Install
 - Put both **aCalc.c** and **install-aCalc.sh** inside the *~*.
 - Then run `bash install-aCalc.sh`.
 - Wait until script ends.
